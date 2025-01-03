@@ -37,7 +37,7 @@ shortener.shorten("https://longurl.com/some/path")
 
 Maintaining and improving this project incurs server costs. If you find this library helpful, consider supporting us!
 
-[**Donate for Server Cost and Support**](https://www.buymeacoffee.com/yourusername)
+[**Donate for Server Cost and Support**](https://res.cloudinary.com/drsx9xy6o/image/upload/v1735908635/sadapay_uoovwk.jpg)
 
 ---
 
