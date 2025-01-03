@@ -20,9 +20,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MuhammadAhmed-Developer/file-render-time-npm"
+    "url": "git+https://github.com/MuhammadAhmed-Developer/react-urlshortner-npm"
   },
-  "homepage": "https://github.com/MuhammadAhmed-Developer/file-render-time-npm#readme",
+  "homepage": "https://github.com/MuhammadAhmed-Developer/react-urlshortner-npm#readme",
   "author": "Muhammad Ahmed",
   "license": "ISC",
   "description": "A lightweight URL shortener library for Node.js and browser applications. Easily shorten URLs using a customizable API endpoint with built-in validation and error handling",
@@ -32,6 +32,7 @@
     "@rollup/plugin-typescript": "^12.1.2",
     "@types/axios": "^0.9.36",
     "rollup": "^4.29.1",
+    "tslib": "^2.8.1",
     "typescript": "^5.7.2"
   },
   "dependencies": {
