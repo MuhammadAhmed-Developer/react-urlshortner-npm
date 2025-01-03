@@ -1,0 +1,40 @@
+{
+  "name": "react-urlshortner",
+  "version": "1.0.0",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "url shortener react",
+    "short url",
+    "npm-package",
+    "url shortener library",
+    "npm package url shortener"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAhmed-Developer/file-render-time-npm"
+  },
+  "homepage": "https://github.com/MuhammadAhmed-Developer/file-render-time-npm#readme",
+  "author": "Muhammad Ahmed",
+  "license": "ISC",
+  "description": "A lightweight URL shortener library for Node.js and browser applications. Easily shorten URLs using a customizable API endpoint with built-in validation and error handling",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/axios": "^0.9.36",
+    "rollup": "^4.29.1",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
